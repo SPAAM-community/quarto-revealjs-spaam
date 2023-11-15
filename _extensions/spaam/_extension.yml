@@ -1,0 +1,16 @@
+title: SPAAM Presentation
+author: SPAAM
+version: 1.0.0
+quarto-version: ">=1.2.0"
+contributes:
+  formats:
+    revealjs:
+      logo: avatar.png
+      title-slide-attributes: 
+        data-background-image: logo.png
+        data-background-size: 40%
+        data-background-position: 10% 10%
+      theme: [default, spaam.scss]
+      css: fonts.css
+      code-overflow: wrap
+      code-line-numbers: true

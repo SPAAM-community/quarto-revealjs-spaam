@@ -1,0 +1,23 @@
+---
+title: Presentation Title
+subtitle: Dr. McPresentyface
+format:
+  spaam-revealjs: default
+---
+
+## A slide
+
+Some text 
+
+[a link to nowhere](nowhere)
+
+Some **more** text
+
+## SPAAM Community {.center}
+
+<i class="nf nf-cod-home"></i> [spaam-community.org](https://spaam-community.org)  
+<i class="nf nf-md-slack"></i> [spaam-community.slack.com](https://spaam-community.slack.com)  
+<i class="nf nf-md-twitter"></i> [@spaam_community](https://twitter.com/@spaam_community)  
+<i class="nf nf-md-mastodon"></i> [@spaam_community](https://genomic.social/@spaam_community)  
+<i class="nf nf-md-email"></i> [spaam-community@listserv.dfn.de](mailto:spaam-community@listserv.dfn.de)  
+<i class="nf nf-md-github"></i> [spaam-community](https://github.com/spaam-community)

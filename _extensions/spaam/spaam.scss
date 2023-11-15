@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+@import url("https://www.nerdfonts.com/assets/css/webfont.css");
+
+$white: #ffffff;
+$black: #020202;
+$green: #2ab675;
+$pink: #ee4890;
+$yellow: #fc6;
+$blue: #74d1f6;
+$purple: #843095;
+$grey: #515151;
+$darkgrey: #313131;
+
+$font-family-sans-serif: "Varela Round", sans-serif !default;
+
+//$presentation-heading-font: "Varela Round", sans-serif !default;
+
+// document colours
+$body-bg: $white;
+$body-color: $grey;
+$link-color: $purple;
+$presentation-heading-color: $darkgrey;
+
+/*-- scss:rules --*/
+
+h1 {
+  border-bottom: 4pt solid $purple;
+}
+
