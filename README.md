@@ -13,5 +13,5 @@ quarto use template spaam-community/quarto-revealjs-spaam
 Build the presentation
 
 ```sh
-quarto render template.qmd
+quarto render <your-document>.qmd
 ```
